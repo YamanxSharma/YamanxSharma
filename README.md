@@ -47,7 +47,7 @@ print(f"Call Price: ${bs_price(100, 105, 1, 0.05, 0.2):.2f}")
 ```
 ## Let's Connect
 <p align="left">
-  <a href="www.linkedin.com/in/yaman-sharma-164b68244">
+  <a href="https://www.linkedin.com/in/yaman-sharma-164b68244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sharma.yamandinesh@gmail.com">
